@@ -6,6 +6,8 @@ import "./feed.css";
 import Story from '../componants/Story';
 import Write from '../componants/Write';
 import Post from '../componants/Post';
+import Req from '../componants/Friend';
+import Info from '../componants/Infos';
 
 
 const Home = () => {
@@ -17,6 +19,8 @@ const Home = () => {
     <Story />
     <Write />
     <Post />
+    <Req />
+    <Info />
 
         </>
      );

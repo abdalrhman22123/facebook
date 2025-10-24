@@ -1,0 +1,60 @@
+.rec4
+{
+    position: absolute;
+    margin-left: 2%;
+    margin-top: -460px;
+    width: 355px;
+}
+.pers
+{
+    
+    margin-left: 3%;
+    position: absolute;
+    margin-top: -450px;
+}
+.person
+{
+    display: flex;
+}
+.guy
+{
+    position: absolute;
+    margin-top: -440px;
+    margin-left: 7%;
+}
+.btns
+{
+    position: absolute;
+     margin-top: -395px;
+    margin-left: 4%;
+}
+.rec5
+{
+    position: absolute;
+    margin-left: 2%;
+    margin-top: -340px;
+    width: 355px;
+}
+.perss
+{
+    
+    margin-left: 3%;
+    position: absolute;
+    margin-top: -330px;
+}
+.personn
+{
+    display: flex;
+}
+.guyy
+{
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 7%;
+}
+.btnss
+{
+    position: absolute;
+     margin-top: -275px;
+    margin-left: 4%;
+}
