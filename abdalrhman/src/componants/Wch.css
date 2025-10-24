@@ -1,0 +1,16 @@
+.menu
+{
+    display: flex;
+    row-gap: 10px;
+    margin-left: 8%;
+    margin-top: 1%;
+    column-gap: 20px;
+}
+.wtch
+{
+/* display: flex; */
+margin-top: 4.8%;
+background-color: white;
+width: 345px;
+height: 1658px;
+}

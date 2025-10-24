@@ -1,0 +1,20 @@
+.face
+{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.allhome
+{
+    display: flex;
+    gap: 70px;
+    width: 35px;
+    height: 35px;
+    margin-top: 2.3%;
+}
+.nav
+{
+    display: flex;
+    gap: 480px;
+    background-color: white;
+    padding-bottom: 1%;
+}
