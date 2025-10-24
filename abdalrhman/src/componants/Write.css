@@ -1,0 +1,36 @@
+.rec
+{
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 720px;
+    position: absolute;
+    z-index: -1;
+}
+.img
+{
+    margin-top: 2%;
+    margin-top: 3%;
+}
+.whats
+{
+   margin-top: 3.4%;
+   background-color: #F0F2F5;
+   padding: 3px 380px 5px 20px;
+   border-radius: 15px;
+}
+.comp
+{
+    display: flex;
+    gap: 40px;
+    margin-top: 0.5%;
+}
+hr
+{
+width: 600px;
+margin-left: 413px;
+margin-top: 1.5%;
+}
+.icons
+{
+    margin-left: 6%;
+}
