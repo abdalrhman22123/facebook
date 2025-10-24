@@ -3,8 +3,8 @@ import Nav from '../componants/customnav';
 import Btn from '../componants/Btn';
 import Wch from '../componants/Wch';
 import "./feed.css";
-import Title from '../componants/Title';
-// import "./customnav";
+import Story from '../componants/Story';
+
 
 const Home = () => {
     return ( 
@@ -12,7 +12,7 @@ const Home = () => {
     <Nav />
     <Btn />
     <Wch />
-    
+    <Story />
 
         </>
      );

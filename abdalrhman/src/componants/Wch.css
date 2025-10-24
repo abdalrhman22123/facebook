@@ -13,5 +13,5 @@ margin-top: 4.8%;
 background-color: white;
 width: 345px;
 height: 1658px;
-/* position: absolute; */
+float: left;
 }
