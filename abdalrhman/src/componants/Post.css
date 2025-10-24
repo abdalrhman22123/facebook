@@ -1,0 +1,32 @@
+.rec2
+{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: -43.7%;
+    width: 720px;
+    z-index: -1;
+}
+.alb
+{
+    display: flex;
+    gap: 5px;
+    margin-top: 2%;
+    margin-left: 6%;
+}
+.names
+{
+    margin-top: 0.8%;
+}
+.cir2
+{
+    margin-left: 2%;
+}
+.dots
+{
+    margin-left: 500px;
+}
+.water
+{
+    margin-left: 2%;
+    margin-top: 1%;
+}

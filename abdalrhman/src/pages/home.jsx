@@ -5,6 +5,7 @@ import Wch from '../componants/Wch';
 import "./feed.css";
 import Story from '../componants/Story';
 import Write from '../componants/Write';
+import Post from '../componants/Post';
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
     <Wch />
     <Story />
     <Write />
+    <Post />
 
         </>
      );
