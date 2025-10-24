@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import "./Wch.css";
 import Img3 from "../assets/Vector2.svg";
+import Title from './Title';
 const Wch = () => {
     return ( 
         <>
@@ -21,6 +22,7 @@ const Wch = () => {
          <img className='watch' src={Img3} alt="watch" />
          <div>Watch</div>
         </div>  
+        <Title />
         </div>
         
         </>
