@@ -21,6 +21,7 @@ const Home = () => {
     <Post />
     <Req />
     <Info />
+    
 
         </>
      );
